@@ -109,17 +109,6 @@ Focused on **building scalable solutions** and **advancing technology**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdazharulislamnk&show_icons=true&theme=tokyonight" alt="Azharul's GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazharulislamnk&theme=tokyonight" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdazharulislamnk&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
-
 ---
 
 ## 🤝 Let’s Connect
