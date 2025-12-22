@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Azharul Islam  
 
-🎓 **Computer Science Graduate | Software Engineer | ML, AI & Cloud Enthusiast**  
+🎓 **Software Engineer | Full Stack Developer | ML, AI & Cloud Enthusiast**  
 
 📍 Mahmudpur, Bhuighar, Narayanganj Sadar, Narayanganj, Bangladesh  
 📧 **Email:** [mdazharulislamnk@gmail.com](mailto:mdazharulislamnk@gmail.com)  
