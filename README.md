@@ -11,7 +11,8 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science graduate specializing in software engineering, with **5 years of problem-solving experience** through academic projects and competitive programming. Strong foundation in **data structures, algorithms, OOP, distributed systems, and system design**.  
+I'm a  Software Engineer and Full Stack Developer with a strong foundation in Data Structures, Algorithms, and Distributed Systems. Proficient in Java, C/C++, Python, JavaScript/TypeScript, and C# with deep expertise in Linux environments. Focused on building scalable, efficient software, demonstrated by engineering complex solutions like a custom compiler and real-time full-stack applications.
+PROJECTS**.  
 
 Proven ability to build **full-stack applications** and **machine learning solutions**, including an **AI-powered clinical recommendation system** and a **real-time audio streaming platform**.  
 
