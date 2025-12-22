@@ -11,8 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a  Software Engineer and Full Stack Developer with a strong foundation in Data Structures, Algorithms, and Distributed Systems. Proficient in Java, C/C++, Python, JavaScript/TypeScript, and C# with deep expertise in Linux environments. Focused on building scalable, efficient software, demonstrated by engineering complex solutions like a custom compiler and real-time full-stack applications.
-PROJECTS**.  
+I'm a  Software Engineer and Full Stack Developer with a strong foundation in Data Structures, Algorithms, and Distributed Systems. Proficient in Java, C/C++, Python, JavaScript/TypeScript, and C# with deep expertise in Linux environments. Focused on building scalable, efficient software, demonstrated by engineering complex solutions like a custom compiler and real-time full-stack applications. 
 
 Proven ability to build **full-stack applications** and **machine learning solutions**, including an **AI-powered clinical recommendation system** and a **real-time audio streaming platform**.  
 
