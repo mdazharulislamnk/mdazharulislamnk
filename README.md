@@ -15,11 +15,6 @@ I'm a  Software Engineer and Full Stack Developer with a strong foundation in Da
 
 Proven ability to build **full-stack applications** and **machine learning solutions**, including an **AI-powered clinical recommendation system** and a **real-time audio streaming platform**.  
 
-Proficient in **Java, Python, C++, JavaScript, TypeScript, C#, and PHP**, with over **4 years of hands-on Linux experience** and expertise in **MERN stack, RESTful APIs, and Flask**.  
-
-Focused on **building scalable solutions** and **advancing technology**.
-
-
 💡 **Core Interests:** Software Engineering • Cloud Computing • Machine Learning • Distributed Systems • AI Agents • System Design  
 🧠 **Philosophy:** Build to learn, learn to build.
 
